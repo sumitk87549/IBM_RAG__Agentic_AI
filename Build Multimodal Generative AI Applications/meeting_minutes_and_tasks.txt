@@ -1,0 +1,25 @@
+# Meeting Minutes
+
+**Date:** July 14, 2026  
+**Subject:** Q3 Financial Update and Strategic Growth Overview  
+
+### Key Points Discussed
+*   **Financial Health & Leverage:** Management confirmed a conservative approach to leverage management with a healthy Tier 1 capital ratio of twelve point five percent (12.5%).
+*   **Revenue Forecast:** Positive outlook for the coming quarter, expecting total revenue around one hundred thirty-five million dollars ($135M).
+    *   Growth Target: Eight percent (8%) Quarter over Quarter growth driven by blockchain chain solutions and AI-driven predictive analytics.
+*   **IPO Announcement:** Excitement regarding the upcoming IPO of FinTech subsidiary Pay Plus. Expected to raise two hundred million dollars ($200M) significantly bolstering liquidity for aggressive growth strategies.
+
+### Decisions Made
+*   **Strategic Alignment:** The company has officially adopted a conservative approach to managing leverage while pursuing aggressive revenue targets driven by blockchain and AI technologies.
+*   **Capital Allocation:** Proceed with the Pay Plus IPO strategy to secure $200M in capital, prioritizing liquidity improvement for Q3 growth initiatives.
+
+***
+
+# Task List
+
+| Action Item | Assignee | Deadline | Priority |
+| :--- | :--- | :--- | :--- |
+| **Prepare Financial Reporting**<br>Compile detailed financial reports reflecting the $135M revenue forecast and Tier 1 capital ratio (12.5%) for stakeholder review. | CFO / Finance Team | End of Q3 | High |
+| **Finalize IPO Documentation**<br>Complete regulatory compliance paperwork and drafting materials required to finalize Pay Plus ($200M) equity raise. | Legal & Compliance Lead | Start of Next Quarter (Q4) | Critical |
+| **Monitor Growth Drivers**<br>Track implementation progress for blockchain chain solutions and AI-driven predictive analytics contributing to 8% QoQ growth target. | Product / Strategy Team | Ongoing through Q3 | Medium |
+| **Liquidity Management Review**<br>Analyze impact of $200M raise on current leverage management strategy post-IPO funding closure. | CFO / Treasury Officer | End of IPO Closing Period | High |
