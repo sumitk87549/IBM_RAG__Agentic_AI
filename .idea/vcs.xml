@@ -2,5 +2,7 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Advanced RAG with Vector Databases and Retrievers/module3/style-finder" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Build Multimodal Generative AI Applications/computer-vision-lab/style-finder" vcs="Git" />
   </component>
 </project>
