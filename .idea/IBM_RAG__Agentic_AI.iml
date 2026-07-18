@@ -2,7 +2,10 @@
 <module type="PYTHON_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Advanced RAG with Vector Databases and Retrievers/module3/style-finder" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Build Multimodal Generative AI Applications/venv/lib/python3.13/site-packages" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Build Multimodal Generative AI Applications/venv/lib/python3.13/site-packages/pandas" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Build Multimodal Generative AI Applications/venv/lib64/python3.13/site-packages/langchain_classic/tools" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.12 (IBM_RAG__Agentic_AI) (2)" jdkType="Python SDK" />
